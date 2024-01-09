@@ -23,4 +23,4 @@ If you have some idea how to make the integration better or add additional payme
 There no affiliation between Dulocart or intuitionlabs with Stripe service.
 
 ## ⚖️ License 
-The library is with APACHE 2 license as the Stripe library is with MIT license.
+The library is with MIT license same as the Stripe library.
